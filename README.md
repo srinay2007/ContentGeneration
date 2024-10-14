@@ -16,7 +16,7 @@ This notebook needs to be executed with a GPU runtime since we load a transforme
 
 Great Learning wants to convert there online sessions, webinars and podcast to audio file which can be used later to generate transcript. We will be using **pytube** library to convert youtube video into audio file and **OpenAI Whisper** library for the transcript generation.
 
-###What is Whisper AI?
+### What is Whisper AI?
 
 **Whisper AI** is developed by OpenAI for automatic speech recognition (ASR), which transcribes spoken language into text. It was trained on a massive dataset of 680,000 hours of multilingual, supervised data from the internet, allowing it to handle a wide variety of accents, vocabularies, and topics. Whisper breaks down input speech into phonetic components and compares them against its knowledge base to determine the most probable sequence of words, enabling it to transcribe speech with high accuracy. The Whisper model has diverse applications including transcribing meetings, converting educational materials into text, enabling voice assistants, and automatic captioning
 
