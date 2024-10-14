@@ -7,7 +7,7 @@ With the advent of Large Language Models (LLMs), the market has seen an influx o
 
 Today, we aim to replicate the functionality of such products.
 
-## **Problem Definition**
+## **Problem Definition and Approach**
 
 
 Company **Great Learning** produces a vast amount of educational content, but the volume of content can overwhelm their audience. Many users seek quick, concise summaries to determine whether they want to engage with the full content. Currently, Great Learning's team manually summarizes content, which is time-consuming and prone to inconsistencies. The company needs an efficient, automated solution to generate accurate and engaging summaries. By doing so, they can save time, reduce costs, and enhance user satisfaction.
@@ -30,9 +30,6 @@ You can read more about whisper below:
 
 ***Steps involved:***
 1.Data Preparation
-
-### Audio to Transcript Conversion
-
 2.Devise prompts
 3.Evaluation
 4.Improve the prompt-COT
