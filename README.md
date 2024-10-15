@@ -1,4 +1,4 @@
-# ContentGeneration
+# Content Generation for YouTube summarization
 Content generation and summarization using Azure Open AI
 
 #**Case Study: Youtube Video Summarization**
